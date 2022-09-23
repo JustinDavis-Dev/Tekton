@@ -1,1 +1,1 @@
-# Tekton
+Tekton is a cloud-based document management solution focused on streamlining workforce management in the construction space. Tekton is an MVP, and due to the proprietary nature of the code, I can only provide code snippets. This repository contains SQL, .NET, and React code for the Administrator Surveys feature.
